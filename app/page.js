@@ -133,7 +133,13 @@ const Home = () => {
             height={40}
             alt='lbel'
           />
-          <button className='close'></button>
+          <Image
+            className='close'
+            src={`/close.png`}
+            width={15}
+            height={15}
+            alt='close'
+          />
         </header>
         <nav className='category'>
           {data.map((item) => (
