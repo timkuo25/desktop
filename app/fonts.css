@@ -1,0 +1,187 @@
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProLig.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProLigIta.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProBoo.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProBooIta.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProMed.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProMedIta.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProSem.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProSemIta.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProBol.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProBolIta.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProBla.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FreigBigPro';
+  src: url('/fonts/FreigBigPro/FreigBigProBlaIta.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamThin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamThinItalic.otf') format('opentype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamXLight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamXLightItalic.otf') format('opentype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamLight.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamLightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamBook.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamBookItalic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamMedium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamMediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamBold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamBoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamBlack.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamBlackItalic.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamUltra.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/Gotham/GothamUltraItalic.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
