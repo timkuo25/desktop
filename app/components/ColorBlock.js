@@ -1,5 +1,5 @@
-const ColorBlock = ({ tonos, hex, selectedCol, setSelectedCol, setNoColor }) => {
-  if (tonos === undefined) return (
+const ColorBlock = ({ tone, hex, selectedCol, setSelectedCol, setNoColor }) => {
+  if (tone === undefined) return (
     <div 
       className='color-block'
       style={{
@@ -16,12 +16,12 @@ const ColorBlock = ({ tonos, hex, selectedCol, setSelectedCol, setNoColor }) => 
     <div 
       className='color-block'
       style={{
-        border: selectedCol.tonos === tonos && selectedCol.hex === hex
-          ? '1px solid black'
+        border: selectedCol.tone === tone && selectedCol.hex === hex
+          ? '2px solid black'
           : 'none',
       }}
       onClick={() => {
-        setSelectedCol({ tonos: tonos, hex: hex });
+        setSelectedCol({ tone: tone, hex: hex });
       }}
     >
       <div 
